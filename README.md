@@ -53,7 +53,7 @@ As we can see the refactored code produces the same results in a shorter runtime
 
 ###  Advantages and Disadvantages of Refactoring Code
 
-Again the major advantage of refactoring is the decrease in macro run time. In this analysis, the new code ran  faster than the original. A disadvantage of refactoring code is that after a program has been deployed and there have been updates and extensions added to the original, refactoring may break those updates or extensions. Therefore, it is easier to refactored code right after it has been deployed before and updates or extensions have been added.
+Again the major advantage of refactoring is the decrease in macro run time. In this analysis, the new code ran  faster than the original. A disadvantage of refactoring code is that after a program has been deployed and there have been updates and extensions added to the original, refactoring may break those updates or extensions. Therefore, it is easier to refactor code right after it has been deployed before any updates or extensions have been added.
 
 ### Pros and Cons of Refactoring the Original VBA Script
 
